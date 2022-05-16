@@ -1,10 +1,13 @@
 [
-  {
-    "text": "قالب فروشگاهی رویال",
-    "img": "https://s6.uupload.ir/files/jso_umdq.png"
-  },
-  {
-    "text": "قالب فروشگاهی البرز",
-    "img": "https://s6.uupload.ir/files/jso_umdq.png"
-  }
+{
+"name":"نام"
+,
+"link":"http://" 
+}
+,
+{
+"name":"نام"
+,
+"link":"http://" 
+}
 ]
